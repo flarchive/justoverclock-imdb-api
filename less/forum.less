@@ -1,0 +1,65 @@
+img#poster {
+  height: 120px;
+  margin-top: 25px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.flipper {
+  display: flex;
+}
+p#plot {
+  max-width: 625px;
+  text-align: justify;
+}
+div#imdb {
+  display: flex;
+}
+.movieTitleHero {
+  display: flex;
+}
+.ratedOnImdb {
+  background: @primary-color;
+  width: 140px;
+  padding: 5px;
+  border-radius: 8px;
+  margin-top: -12px;
+  margin-bottom: 3px;
+}
+p#mpaa {
+  display: flex;
+  margin-top: -12px;
+}
+a#imdbLink {
+  text-decoration: none;
+  border-bottom: 1px dotted #ff6900;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+}
+i.fas.fa-link.linktoimdb {
+  margin-right: 4px;
+}
+i.fas.fa-star-half-alt.movierated {
+  color: #fc0;
+  margin-top: 3px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+@media (max-width:652px)  {
+  img#poster {
+    height: 138px;
+    margin-top: 26px;
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+}
+@media (max-width:490px)  {
+  img#poster {
+    height: 157px;
+  }
+}
+@media (max-width:423px)  {
+  div#imdb {
+    display: none;
+  }
+}
