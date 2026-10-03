@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of justoverclock/imdb-api.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/imdb-api) or the [upstream repository](https://github.com/justoverclockl/imdb-api).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-imdb-api/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-imdb-api/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-09-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-imdb-api/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-09-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-imdb-api/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-12-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-imdb-api/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/justoverclock-imdb-api.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-imdb-api.json)
 
